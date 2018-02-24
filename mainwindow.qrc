@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/" >
+        <file>icons/child.png</file>
+        <file>icons/copy.png</file>
+        <file>icons/cut.png</file>
+        <file>icons/mainwindow.png</file>
+        <file>icons/open.png</file>
+        <file>icons/paste.png</file>
+        <file>icons/preprocess.png</file>
+        <file>icons/print.png</file>
+        <file>icons/redo.png</file>
+        <file>icons/save.png</file>
+        <file>icons/setting.png</file>
+        <file>icons/undo.png</file>
+        <file>icons/vitalcoded.png</file>
+        <file>config.ui</file>
+    </qresource>
+</RCC>
